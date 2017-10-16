@@ -1,0 +1,12 @@
+name: appgrain
+title: appgrain
+username:
+account: levela108
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 223158
+bundleId: 1021637
+url: https://levela108.shinyapps.io/appgrain/
+when: 1507735792.0807
+asMultiple: FALSE
+asStatic: FALSE

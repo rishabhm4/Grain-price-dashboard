@@ -1,0 +1,12 @@
+name: app2
+title: APP2
+username:
+account: levelacommodity
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 224815
+bundleId: 1024882
+url: https://levelacommodity.shinyapps.io/app2/
+when: 1507890395.33517
+asMultiple: FALSE
+asStatic: FALSE

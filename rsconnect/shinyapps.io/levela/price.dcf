@@ -1,0 +1,12 @@
+name: price
+title: price
+username:
+account: levela
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 222669
+bundleId: 1014233
+url: https://levela.shinyapps.io/price/
+when: 1507299694.75342
+asMultiple: FALSE
+asStatic: FALSE

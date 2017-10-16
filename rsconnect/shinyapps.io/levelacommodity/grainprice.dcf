@@ -1,0 +1,12 @@
+name: grainprice
+title: grainprice
+username:
+account: levelacommodity
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 222677
+bundleId: 1014262
+url: https://levelacommodity.shinyapps.io/grainprice/
+when: 1507300513.95614
+asMultiple: FALSE
+asStatic: FALSE
